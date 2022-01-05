@@ -6,5 +6,5 @@
 
 
 
-事前にpyxelのインストールが必要
-https://github.com/kitao/pyxel/blob/master/README.ja.md
+事前にpyxelのインストールが必要<br>
+https://github.com/kitao/pyxel/blob/main/doc/README.ja.md
