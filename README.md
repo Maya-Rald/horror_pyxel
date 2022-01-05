@@ -7,4 +7,4 @@
 
 
 事前にpyxelのインストールが必要
-https://github.com/kitao/pyxel/blob/master/README.ja.md
+https://github.com/kitao/pyxel/blob/main/doc/README.ja.md
